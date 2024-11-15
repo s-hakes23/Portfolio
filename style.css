@@ -1,0 +1,108 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.tip{
+    padding-left: 500px;
+    
+}
+.faceb{
+    
+    padding-left: 450px;
+}
+.twit{
+    padding-left: 20px;
+    border-radius: 30px;
+}
+.insta{
+    padding-left: 20px;
+}
+.print{
+    padding-left: 20px;
+}
+
+.ox{
+    width: 1360px;
+    height: 30px;
+    background-color: rgb(255, 123, 0);
+}
+.ui{
+    font-size: 12px;
+}
+.pe{
+    padding-left: 200px;
+    
+}
+.anc{
+    background-color: rgb(255, 72, 0);
+    padding: 10px;
+    text-decoration: none;
+    color: white;
+    
+   
+}
+.mg{
+    height: 30px;
+    padding-left: 200px;
+}
+
+.to{
+    text-decoration: none;
+}
+.ot{
+    text-decoration: none;
+}
+.pho{
+    padding-left: 20px;
+}
+.sd{
+    width: 1300;
+    height: 500px;
+    /* background-image: url(background.jpg); */
+    background-size: contain;
+    padding-top: 190px;
+}
+
+.under{
+    font-size: 35px;
+}
+.sfg{
+    margin-left: 130px;
+} 
+.sdd{
+    width: 500px;
+    height: 500px;
+    
+    padding-bottom: 20px;
+    padding-top: 150px;
+    
+}
+
+.container{
+    display: flex;
+}
+.hk{
+    padding-left: 30px;
+}
+.he{
+    padding-left: 30px;
+    margin-bottom: 20px;
+}
+.leaf{
+    padding: 15px;
+    background-color: rgb(255, 123, 0);
+    text-decoration: none;
+    margin-left: 25px;
+    border-radius: 4px;
+}
+.eaf{
+    padding: 15px;
+    text-decoration: none;
+    background-color: transparent; 
+    border: 1px solid white;
+    border-radius: 4px;
+}
+body{
+    background-image: url(background.jpg);
+    background-size: cover;
+}
